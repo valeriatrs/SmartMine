@@ -1,0 +1,30 @@
+{
+  "Token": {
+    "UID": "3398bc61-721f-47bb-8ea2-78b7be280923",
+    "Name": "LocationStateOutFunc"
+  },
+  "Type": 7,
+  "Options": [
+    {
+      "Token": {
+        "UID": "696dfaaf-91ba-4792-ac68-39fe69299220",
+        "Name": "func_1"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "6810b976-635a-448d-8adf-effee57097ed",
+        "Name": "func_2"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "01758693-f035-446b-a469-4f86eb68bab9",
+        "Name": "func_3"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

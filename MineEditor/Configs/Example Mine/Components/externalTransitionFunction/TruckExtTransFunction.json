@@ -1,0 +1,16 @@
+{
+  "Token": {
+    "UID": "f0db8b04-7ce0-4d07-966d-a75c60649267",
+    "Name": "TruckExtTransFunction"
+  },
+  "Type": 6,
+  "Options": [
+    {
+      "Token": {
+        "UID": "f96c7c76-ae55-4456-9284-844c02690ac0",
+        "Name": "truck_func"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

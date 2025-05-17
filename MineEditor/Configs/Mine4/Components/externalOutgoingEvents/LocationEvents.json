@@ -1,0 +1,16 @@
+{
+  "Token": {
+    "UID": "57f07aca-a242-4b67-b269-ff1fab2a0113",
+    "Name": "LocationEvents"
+  },
+  "Type": 1,
+  "Options": [
+    {
+      "Token": {
+        "UID": "4e935122-b9e5-4a4c-ad97-8f4e6506e5b4",
+        "Name": "EvReadinessForLoading"
+      },
+      "AdditionalData": ""
+    }
+  ]
+}

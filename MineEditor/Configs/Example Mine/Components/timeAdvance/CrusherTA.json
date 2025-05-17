@@ -1,0 +1,30 @@
+{
+  "Token": {
+    "UID": "f874fc26-f0e8-4283-a3db-7fcb1cac3b33",
+    "Name": "CrusherTA"
+  },
+  "Type": 9,
+  "Options": [
+    {
+      "Token": {
+        "UID": "25b43053-4dfe-4672-933d-5a10f365ef7d",
+        "Name": "crush_funcTA_3"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "b94cb9dd-e1b9-4c9f-b3ba-e11994472529",
+        "Name": "crush_funcTA_5"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "a6a07535-4737-4ee3-aaed-f2bc49cf6f99",
+        "Name": "crush_funcTA_7"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

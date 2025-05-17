@@ -1,0 +1,241 @@
+{
+  "Token": {
+    "UID": "f553b6f0-abd5-4bfe-9142-ac7de80f6bc6",
+    "Name": "Location1"
+  },
+  "IsActive": true,
+  "Components": {
+    "externalIncomingEvents": {
+      "Token": {
+        "UID": "bef3f53e-a4e5-4b6f-ba77-f338e58f3ef9",
+        "Name": "LocationEvents"
+      },
+      "Type": 0,
+      "Options": [
+        {
+          "Token": {
+            "UID": "53aeac6f-59a5-4c86-b1ad-090be8f01594",
+            "Name": "START"
+          },
+          "AdditionalData": ""
+        },
+        {
+          "Token": {
+            "UID": "19b16620-ee75-4f6a-88ec-5ceed0f64cc4",
+            "Name": "EvLoaderUnloaded"
+          },
+          "AdditionalData": ""
+        }
+      ]
+    },
+    "externalOutgoingEvents": {
+      "Token": {
+        "UID": "57f07aca-a242-4b67-b269-ff1fab2a0113",
+        "Name": "LocationEvents"
+      },
+      "Type": 1,
+      "Options": [
+        {
+          "Token": {
+            "UID": "4e935122-b9e5-4a4c-ad97-8f4e6506e5b4",
+            "Name": "EvReadinessForLoading"
+          },
+          "AdditionalData": ""
+        }
+      ]
+    },
+    "internalEvents": {
+      "Token": {
+        "UID": "9fe61f53-0e65-4a9e-b014-d5e9005c1164",
+        "Name": "LocationEvents"
+      },
+      "Type": 2,
+      "Options": [
+        {
+          "Token": {
+            "UID": "b9da33c6-ba4c-4c4e-b70e-d926db86f40d",
+            "Name": "*"
+          },
+          "AdditionalData": ""
+        },
+        {
+          "Token": {
+            "UID": "0742ad4a-bd6e-42c1-8cf9-a0510e077719",
+            "Name": "**"
+          },
+          "AdditionalData": ""
+        }
+      ]
+    },
+    "states": {
+      "Token": {
+        "UID": "c20aa444-c23b-4081-843a-baf59b598ca6",
+        "Name": "LocationStates"
+      },
+      "Type": 3,
+      "Options": [
+        {
+          "Token": {
+            "UID": "bab89c01-699a-4023-b4c1-69f6142755ad",
+            "Name": "InitLoc1"
+          },
+          "AdditionalData": ""
+        },
+        {
+          "Token": {
+            "UID": "5b059820-26d2-4463-88e5-a224a93f3735",
+            "Name": "OreProducing"
+          },
+          "AdditionalData": ""
+        },
+        {
+          "Token": {
+            "UID": "00252ffd-4a1f-478b-b834-7b37fa2c5ce4",
+            "Name": "OreProcessing"
+          },
+          "AdditionalData": ""
+        }
+      ]
+    },
+    "initialState": {
+      "Token": {
+        "UID": "8664e7b0-2528-4beb-ae62-a50c76d8a959",
+        "Name": "LocationInitState"
+      },
+      "Type": 4,
+      "Options": [
+        {
+          "Token": {
+            "UID": "8b2a6e37-35ea-45d1-8d0b-82eaf7dddf48",
+            "Name": "InitLoc1"
+          },
+          "AdditionalData": ""
+        }
+      ]
+    },
+    "internalTransitionFunction": {
+      "Token": {
+        "UID": "91ad7373-daf7-44bd-aaf3-df5b326c6450",
+        "Name": "LocationTransFunc"
+      },
+      "Type": 5,
+      "Options": [
+        {
+          "Token": {
+            "UID": "24a0631f-4a4c-4812-bb5f-37459c01aa53",
+            "Name": "InitLoc1_OreProduction"
+          },
+          "AdditionalData": "script"
+        },
+        {
+          "Token": {
+            "UID": "39e41e07-7e8f-4352-9a30-0e03efcddb4c",
+            "Name": "InitLoc1_OreProcessing"
+          },
+          "AdditionalData": "script"
+        }
+      ]
+    },
+    "externalTransitionFunction": {
+      "Token": {
+        "UID": "f0f6ca64-21ae-4c6e-b1a8-3fbe8ab550ad",
+        "Name": "LocationTransFunc"
+      },
+      "Type": 6,
+      "Options": [
+        {
+          "Token": {
+            "UID": "ffad20b8-b669-4b11-811e-97a6aa709146",
+            "Name": "Function1"
+          },
+          "AdditionalData": "script"
+        },
+        {
+          "Token": {
+            "UID": "83dbbcb1-c94b-4b31-92fe-74789e655e21",
+            "Name": "Function2"
+          },
+          "AdditionalData": "script"
+        }
+      ]
+    },
+    "stateOutputFunction": {
+      "Token": {
+        "UID": "3398bc61-721f-47bb-8ea2-78b7be280923",
+        "Name": "LocationStateOutFunc"
+      },
+      "Type": 7,
+      "Options": [
+        {
+          "Token": {
+            "UID": "696dfaaf-91ba-4792-ac68-39fe69299220",
+            "Name": "func_1"
+          },
+          "AdditionalData": "script"
+        },
+        {
+          "Token": {
+            "UID": "6810b976-635a-448d-8adf-effee57097ed",
+            "Name": "func_2"
+          },
+          "AdditionalData": "script"
+        },
+        {
+          "Token": {
+            "UID": "01758693-f035-446b-a469-4f86eb68bab9",
+            "Name": "func_3"
+          },
+          "AdditionalData": "script"
+        }
+      ]
+    },
+    "transitionOutputFunction": {
+      "Token": {
+        "UID": "7c2e4650-818e-4474-96c0-b4c553a1ab75",
+        "Name": "LocationTransOutFunc"
+      },
+      "Type": 8,
+      "Options": [
+        {
+          "Token": {
+            "UID": "e9c70e27-e331-4bef-a45c-7cfb03be8ff3",
+            "Name": "function"
+          },
+          "AdditionalData": "script"
+        }
+      ]
+    },
+    "timeAdvance": {
+      "Token": {
+        "UID": "baa3baca-e59b-4605-8816-a5b36aafe8d1",
+        "Name": "LocationTA"
+      },
+      "Type": 9,
+      "Options": [
+        {
+          "Token": {
+            "UID": "d596ea17-57b1-4328-81c0-d8eed23aa26a",
+            "Name": "funcTA1"
+          },
+          "AdditionalData": "script"
+        }
+      ]
+    },
+    "stateActivity": {
+      "Token": {
+        "UID": "bdd71600-e628-4c3d-a410-ae0172b68616",
+        "Name": "LocationStateActivity"
+      },
+      "Type": 10,
+      "Options": []
+    },
+    "transitionActivity": {
+      "Token": {
+        "UID": "ccfc21e1-015b-4df4-bb0e-4d7e607c68e3",
+        "Name": "LocationTransActivity"
+      },
+      "Type": 11,
+      "Options": []
+    }
+  }
+}

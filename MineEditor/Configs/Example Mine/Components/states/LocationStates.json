@@ -1,0 +1,30 @@
+{
+  "Token": {
+    "UID": "d3f74b97-2ab9-42e4-9466-178b963ea386",
+    "Name": "LocationStates"
+  },
+  "Type": 3,
+  "Options": [
+    {
+      "Token": {
+        "UID": "57c94e53-24ba-4c0c-8a6c-b1bf7e802a02",
+        "Name": "InitLoc1"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "df48d428-62ed-43e0-92cb-ab627ab07dff",
+        "Name": "OreProduction"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "8b013725-bcf6-4282-b4cb-3cb960a632de",
+        "Name": "OreProcessing"
+      },
+      "AdditionalData": ""
+    }
+  ]
+}

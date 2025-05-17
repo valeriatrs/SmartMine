@@ -1,0 +1,23 @@
+{
+  "Token": {
+    "UID": "881a26d2-f9bb-4732-bfe2-5ac81645bc82",
+    "Name": "LoaderTrOutFunction"
+  },
+  "Type": 8,
+  "Options": [
+    {
+      "Token": {
+        "UID": "9567efcd-b365-410f-baf7-9eebbf95a819",
+        "Name": "load_func1"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "d292cc7b-1a7f-4791-b22a-b8592720a2a3",
+        "Name": "load_func2"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

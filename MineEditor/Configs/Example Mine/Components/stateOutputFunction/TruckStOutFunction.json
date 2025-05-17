@@ -1,0 +1,58 @@
+{
+  "Token": {
+    "UID": "bf3a520d-3462-4c10-8f02-7e2552a1ea8f",
+    "Name": "TruckStOutFunction"
+  },
+  "Type": 7,
+  "Options": [
+    {
+      "Token": {
+        "UID": "2b4903db-b483-4ac0-86ce-10f049e3c8dd",
+        "Name": "truck_func1"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "f567ba10-fb01-4319-bba2-2b5204cacbc3",
+        "Name": "truck_func2"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "cab6c60b-997a-4154-ab2f-2e24fe02c16e",
+        "Name": "truck_func3"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "6e8019cf-8fe2-425b-a0ac-9fc7fdb986b5",
+        "Name": "truck_func4"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "74a69abf-8c34-4a56-aa71-eb8164acbb67",
+        "Name": "truck_func5"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "f5b2768f-549e-457e-8adb-1f2bcdff5c32",
+        "Name": "truck_func6"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "7cda1a47-f7b9-4461-b31f-4a0cbbe23d97",
+        "Name": "truck_func7"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

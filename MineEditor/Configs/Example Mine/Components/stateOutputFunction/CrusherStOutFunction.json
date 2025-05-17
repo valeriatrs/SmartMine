@@ -1,0 +1,30 @@
+{
+  "Token": {
+    "UID": "497e8b29-38e9-4a02-872d-0f601f67d510",
+    "Name": "CrusherStOutFunction"
+  },
+  "Type": 7,
+  "Options": [
+    {
+      "Token": {
+        "UID": "db1aca75-3ad7-4cea-8cb6-aa8c1497520b",
+        "Name": "crush_func1"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "b63a714d-65a3-4118-8d9c-1acb943bae14",
+        "Name": "crush_func2"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "9e15eea3-fa5b-4280-8b63-1914ddb2916e",
+        "Name": "crush_func3"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

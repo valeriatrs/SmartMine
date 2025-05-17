@@ -1,0 +1,16 @@
+{
+  "Token": {
+    "UID": "1fc5a8e6-11ac-43d8-8e9f-a4d222b203ad",
+    "Name": "LoaderInitState"
+  },
+  "Type": 4,
+  "Options": [
+    {
+      "Token": {
+        "UID": "f914b197-9ca1-48e6-9bcc-41c45fe0032e",
+        "Name": "InitLoader1"
+      },
+      "AdditionalData": ""
+    }
+  ]
+}

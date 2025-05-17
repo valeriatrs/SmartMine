@@ -1,0 +1,58 @@
+{
+  "Token": {
+    "UID": "b5992cd2-60b5-42fd-908e-1dcf0d0573d5",
+    "Name": "TruckStates"
+  },
+  "Type": 3,
+  "Options": [
+    {
+      "Token": {
+        "UID": "24779c1d-b608-40ee-9ff6-1cafe7b0c992",
+        "Name": "InitTruck"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "e9af9dc7-24c0-4efd-a166-4b4fe54ac5b7",
+        "Name": "InLocT"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "216e2b74-7f6f-4478-bc81-1708afe7c848",
+        "Name": "LoadingTruck"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "219e9f81-4513-42ac-87fb-d4f20bb97a56",
+        "Name": "MovingToLocCr"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "d006b889-4441-4ed7-9f86-44beb6d89e54",
+        "Name": "InLocCr"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "034a0556-ce3c-48b9-9430-3c087be46727",
+        "Name": "UnloadingTruck"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "fd367a63-53ea-4c01-af65-aae960ecd047",
+        "Name": "MovingToLocT"
+      },
+      "AdditionalData": ""
+    }
+  ]
+}

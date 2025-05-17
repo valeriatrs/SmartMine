@@ -1,0 +1,240 @@
+{
+  "Token": {
+    "UID": "6a352b67-6989-4fd0-8577-9345db334822",
+    "Name": "Automata2"
+  },
+  "IsActive": false,
+  "Components": {
+    "externalIncomingEvents": {
+      "Token": {
+        "UID": "d465baf7-a3c2-4406-9caa-291223d636f3",
+        "Name": "LoaderEvents"
+      },
+      "Type": 0,
+      "Options": [
+        {
+          "Token": {
+            "UID": "f93fddb3-9f0c-424c-ba56-3afb0806c65c",
+            "Name": "EvReadinessForLoading"
+          },
+          "AdditionalData": ""
+        },
+        {
+          "Token": {
+            "UID": "015f4047-544f-403c-9593-26ad97f2dea3",
+            "Name": "EvStartTruckTransfering"
+          },
+          "AdditionalData": ""
+        }
+      ]
+    },
+    "externalOutgoingEvents": {
+      "Token": {
+        "UID": "db73d9b9-3dc4-421a-b9d3-1e0dc0e34454",
+        "Name": "LoaderEvents"
+      },
+      "Type": 1,
+      "Options": [
+        {
+          "Token": {
+            "UID": "e163cdd0-1698-48cd-8902-8246e05dd3a2",
+            "Name": "EvLoaderUnloaded"
+          },
+          "AdditionalData": ""
+        },
+        {
+          "Token": {
+            "UID": "6eba39b7-da20-4f60-8991-d388749c4c6b",
+            "Name": "EvInLockT"
+          },
+          "AdditionalData": ""
+        }
+      ]
+    },
+    "internalEvents": {
+      "Token": {
+        "UID": "fa9d16f6-c16c-4115-a390-8efcdea7023c",
+        "Name": "LoaderEvents"
+      },
+      "Type": 2,
+      "Options": [
+        {
+          "Token": {
+            "UID": "fb31aeb6-06f5-4aed-8fc4-c42f41b72a88",
+            "Name": "*"
+          },
+          "AdditionalData": ""
+        },
+        {
+          "Token": {
+            "UID": "40fd9b0a-ae32-43ff-bc90-5fc0a17f7b19",
+            "Name": "**"
+          },
+          "AdditionalData": ""
+        }
+      ]
+    },
+    "states": {
+      "Token": {
+        "UID": "051e370b-ac94-4ae8-9d2c-81fdce90f3ee",
+        "Name": "LoaderStates"
+      },
+      "Type": 3,
+      "Options": [
+        {
+          "Token": {
+            "UID": "69b571b9-5c44-40a9-9eca-016ad8a036d5",
+            "Name": "InitLoader1"
+          },
+          "AdditionalData": ""
+        },
+        {
+          "Token": {
+            "UID": "2c2a54b2-b851-46ef-b200-238cc36d023e",
+            "Name": "InLoc1"
+          },
+          "AdditionalData": ""
+        },
+        {
+          "Token": {
+            "UID": "d2000c39-6115-4661-bd50-9504378c8604",
+            "Name": "LoadingOre"
+          },
+          "AdditionalData": ""
+        },
+        {
+          "Token": {
+            "UID": "2f0844b5-373c-4b85-820e-996085414f56",
+            "Name": "UnloadingOre"
+          },
+          "AdditionalData": ""
+        }
+      ]
+    },
+    "initialState": {
+      "Token": {
+        "UID": "442ed109-4694-41e0-960f-4d27ba9a051b",
+        "Name": "InitialState"
+      },
+      "Type": 4,
+      "Options": [
+        {
+          "Token": {
+            "UID": "69b571b9-5c44-40a9-9eca-016ad8a036d5",
+            "Name": "InitLoader1"
+          },
+          "AdditionalData": ""
+        }
+      ]
+    },
+    "internalTransitionFunction": {
+      "Token": {
+        "UID": "b2cc0fad-3bc0-4552-a956-e96d129898b2",
+        "Name": "LoaderTransFunc"
+      },
+      "Type": 5,
+      "Options": [
+        {
+          "Token": {
+            "UID": "c3e5cf15-c378-418a-a54d-ff94e11a112b",
+            "Name": "function"
+          },
+          "AdditionalData": "script"
+        },
+        {
+          "Token": {
+            "UID": "4956f7ff-9fc4-4af9-a8cd-097f9a8ca030",
+            "Name": "FUNC"
+          },
+          "AdditionalData": "script"
+        }
+      ]
+    },
+    "externalTransitionFunction": {
+      "Token": {
+        "UID": "2974b406-d178-4709-90ee-ece73777a84f",
+        "Name": "LoaderTransFunc"
+      },
+      "Type": 6,
+      "Options": [
+        {
+          "Token": {
+            "UID": "ce99423c-eb35-4af7-9d6a-6897ca259a92",
+            "Name": "Function1"
+          },
+          "AdditionalData": "script"
+        },
+        {
+          "Token": {
+            "UID": "b03e21e7-7070-4f0e-9d85-45ab336aeaf8",
+            "Name": "Function3"
+          },
+          "AdditionalData": "script"
+        }
+      ]
+    },
+    "stateOutputFunction": {
+      "Token": {
+        "UID": "ce392c8e-686d-490e-973b-80a138440497",
+        "Name": "LoaderStateOutFunc"
+      },
+      "Type": 7,
+      "Options": []
+    },
+    "transitionOutputFunction": {
+      "Token": {
+        "UID": "2f4f1dd6-2cd1-43ee-af9f-b62e0fd57fdc",
+        "Name": "LoaderTransOutFunc"
+      },
+      "Type": 8,
+      "Options": [
+        {
+          "Token": {
+            "UID": "72f28270-853b-4beb-89b7-67bcc6bb7bd6",
+            "Name": "function1"
+          },
+          "AdditionalData": "script"
+        },
+        {
+          "Token": {
+            "UID": "57fb9c08-a3aa-4578-8717-67d3277467ea",
+            "Name": "function2"
+          },
+          "AdditionalData": "script"
+        }
+      ]
+    },
+    "timeAdvance": {
+      "Token": {
+        "UID": "9c3e9fdb-95d9-4105-965d-2d2db7ae9b34",
+        "Name": "LoaderTA"
+      },
+      "Type": 9,
+      "Options": [
+        {
+          "Token": {
+            "UID": "faaf8327-773e-4b83-a282-871f93d5cfc7",
+            "Name": "LoadFunc1"
+          },
+          "AdditionalData": "script"
+        }
+      ]
+    },
+    "stateActivity": {
+      "Token": {
+        "UID": "eaa70999-540f-4b96-bb22-bf4f0e056551",
+        "Name": "LoaderStateActivity"
+      },
+      "Type": 10,
+      "Options": [
+        {
+          "Token": {
+            "UID": "4b95778b-fc73-4e6d-8bfe-d30bd770efa3",
+            "Name": "LSA"
+          },
+          "AdditionalData": "script"
+        }
+      ]
+    }
+  }
+}

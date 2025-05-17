@@ -1,0 +1,23 @@
+{
+  "Token": {
+    "UID": "1cf2dc51-3c10-4f54-9689-1cc4598d8986",
+    "Name": "TruckTrOutFunction"
+  },
+  "Type": 8,
+  "Options": [
+    {
+      "Token": {
+        "UID": "768364d7-5f07-432a-b838-685c5b57e12e",
+        "Name": "crush_func1"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "a0fe1a17-a16f-427a-80f7-d1765cb2f924",
+        "Name": "crush_func2"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

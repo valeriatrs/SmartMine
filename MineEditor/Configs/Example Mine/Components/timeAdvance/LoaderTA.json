@@ -1,0 +1,51 @@
+{
+  "Token": {
+    "UID": "2caa6185-ec0b-4c61-be8b-5603aed077b2",
+    "Name": "LoaderTA"
+  },
+  "Type": 9,
+  "Options": [
+    {
+      "Token": {
+        "UID": "74b15ecc-7e89-424c-9c9c-ea8ba842710b",
+        "Name": "load_funcTA_1"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "94991b07-c23d-4051-b246-494912fd7a72",
+        "Name": "load_funcTA_2"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "740b721e-9e7e-434c-a37a-5a63ed77adc9",
+        "Name": "load_funcTA_3"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "cdaec4af-8e97-4436-b419-c4dd3c709acb",
+        "Name": "load_funcTA_4"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "b91028a0-5232-4bb7-98f5-bc6f97b935c1",
+        "Name": "load_funcTA_5"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "f05ee7cc-f5e1-4de4-b643-e9a86c5224e2",
+        "Name": "load_funcTA_6"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

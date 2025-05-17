@@ -1,0 +1,16 @@
+{
+  "Token": {
+    "UID": "66b0e969-7928-46cb-a3bf-82c26e97a0cb",
+    "Name": "LoaderTransActivity"
+  },
+  "Type": 11,
+  "Options": [
+    {
+      "Token": {
+        "UID": "92c60765-4a5e-46d0-8821-046a604c7466",
+        "Name": "LTA"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

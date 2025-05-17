@@ -1,0 +1,23 @@
+{
+  "Token": {
+    "UID": "9a17b581-feb5-4c56-a1ee-adeedc3460e4",
+    "Name": "LocationIncomingEvents"
+  },
+  "Type": 0,
+  "Options": [
+    {
+      "Token": {
+        "UID": "26c991d8-135b-42c3-af1b-416bb6cc5b3d",
+        "Name": "START"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "b16d1e89-5e87-4de1-b6e1-5bd279662d0c",
+        "Name": "EvLoaderUnloaded"
+      },
+      "AdditionalData": ""
+    }
+  ]
+}

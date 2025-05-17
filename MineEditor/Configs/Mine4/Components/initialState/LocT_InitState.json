@@ -1,0 +1,16 @@
+{
+  "Token": {
+    "UID": "0dfa9c3a-c40a-4ad1-be63-0cc9f2fad5c9",
+    "Name": "LocT_InitState"
+  },
+  "Type": 4,
+  "Options": [
+    {
+      "Token": {
+        "UID": "e9b20a6e-d22e-4ff9-a8d6-f4a0f19321f0",
+        "Name": "InitLocT"
+      },
+      "AdditionalData": ""
+    }
+  ]
+}

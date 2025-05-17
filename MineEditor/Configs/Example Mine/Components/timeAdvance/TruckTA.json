@@ -1,0 +1,58 @@
+{
+  "Token": {
+    "UID": "952f140a-9742-4865-a850-e0d6fea93b6e",
+    "Name": "TruckTA"
+  },
+  "Type": 9,
+  "Options": [
+    {
+      "Token": {
+        "UID": "2f8f019f-cb80-4e78-92d1-64a5675b021a",
+        "Name": "truck_funcTA_1"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "d2f2035c-1aee-480a-92a3-561b710a8fbf",
+        "Name": "truck_funcTA_2"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "ae1cbdb8-9e55-4cc9-9654-9074bfd415ec",
+        "Name": "truck_funcTA_3"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "731e541a-769e-4c69-be0a-d0aadf3fde7d",
+        "Name": "truck_funcTA_4"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "3d6230b9-1a4e-4027-91b5-170be44b4c54",
+        "Name": "truck_funcTA_5"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "1906860c-8a4f-4986-8268-d65f148fccd3",
+        "Name": "truck_funcTA_6"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "711df957-a64a-4afc-b221-db7e031a6f7f",
+        "Name": "truck_funcTA_7"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

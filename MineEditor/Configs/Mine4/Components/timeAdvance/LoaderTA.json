@@ -1,0 +1,16 @@
+{
+  "Token": {
+    "UID": "9c3e9fdb-95d9-4105-965d-2d2db7ae9b34",
+    "Name": "LoaderTA"
+  },
+  "Type": 9,
+  "Options": [
+    {
+      "Token": {
+        "UID": "faaf8327-773e-4b83-a282-871f93d5cfc7",
+        "Name": "LoadFunc1"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

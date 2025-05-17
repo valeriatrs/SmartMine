@@ -1,0 +1,23 @@
+{
+  "Token": {
+    "UID": "fa9d16f6-c16c-4115-a390-8efcdea7023c",
+    "Name": "LoaderEvents"
+  },
+  "Type": 2,
+  "Options": [
+    {
+      "Token": {
+        "UID": "fb31aeb6-06f5-4aed-8fc4-c42f41b72a88",
+        "Name": "*"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "40fd9b0a-ae32-43ff-bc90-5fc0a17f7b19",
+        "Name": "**"
+      },
+      "AdditionalData": ""
+    }
+  ]
+}

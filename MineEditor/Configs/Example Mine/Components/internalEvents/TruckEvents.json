@@ -1,0 +1,23 @@
+{
+  "Token": {
+    "UID": "98a4971e-0c5c-4960-bab1-7eff5864e24a",
+    "Name": "TruckEvents"
+  },
+  "Type": 2,
+  "Options": [
+    {
+      "Token": {
+        "UID": "85b98ebf-df01-471b-9314-c84065703236",
+        "Name": "*"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "3e89c06a-bde9-4749-af41-a58bd9365547",
+        "Name": "**"
+      },
+      "AdditionalData": ""
+    }
+  ]
+}

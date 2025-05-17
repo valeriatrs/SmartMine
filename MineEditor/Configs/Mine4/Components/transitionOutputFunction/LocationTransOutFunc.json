@@ -1,0 +1,16 @@
+{
+  "Token": {
+    "UID": "7c2e4650-818e-4474-96c0-b4c553a1ab75",
+    "Name": "LocationTransOutFunc"
+  },
+  "Type": 8,
+  "Options": [
+    {
+      "Token": {
+        "UID": "e9c70e27-e331-4bef-a45c-7cfb03be8ff3",
+        "Name": "function"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

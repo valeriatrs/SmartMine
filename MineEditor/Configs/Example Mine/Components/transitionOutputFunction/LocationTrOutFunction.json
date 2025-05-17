@@ -1,0 +1,16 @@
+{
+  "Token": {
+    "UID": "4fac64dc-bb86-4479-98c3-fc2690994556",
+    "Name": "LocationTrOutFunction"
+  },
+  "Type": 8,
+  "Options": [
+    {
+      "Token": {
+        "UID": "1880c52a-4b7f-4735-96e9-7ad8eb6854f8",
+        "Name": "loc_func"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

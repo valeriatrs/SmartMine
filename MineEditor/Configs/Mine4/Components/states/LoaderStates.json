@@ -1,0 +1,37 @@
+{
+  "Token": {
+    "UID": "051e370b-ac94-4ae8-9d2c-81fdce90f3ee",
+    "Name": "LoaderStates"
+  },
+  "Type": 3,
+  "Options": [
+    {
+      "Token": {
+        "UID": "69b571b9-5c44-40a9-9eca-016ad8a036d5",
+        "Name": "InitLoader1"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "2c2a54b2-b851-46ef-b200-238cc36d023e",
+        "Name": "InLoc1"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "d2000c39-6115-4661-bd50-9504378c8604",
+        "Name": "LoadingOre"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "2f0844b5-373c-4b85-820e-996085414f56",
+        "Name": "UnloadingOre"
+      },
+      "AdditionalData": ""
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Token": {
+    "UID": "7c249640-6ed7-4f2a-b4f0-5e4126b8979a",
+    "Name": "CrusherIncomingEvents"
+  },
+  "Type": 0,
+  "Options": [
+    {
+      "Token": {
+        "UID": "bcf250c6-b236-43b5-99ec-08891952c235",
+        "Name": "EvTruckUnloaded"
+      },
+      "AdditionalData": ""
+    }
+  ]
+}

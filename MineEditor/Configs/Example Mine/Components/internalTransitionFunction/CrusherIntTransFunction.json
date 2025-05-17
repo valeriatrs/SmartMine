@@ -1,0 +1,30 @@
+{
+  "Token": {
+    "UID": "dba5e0aa-6439-4019-974d-3a1a5bae3f88",
+    "Name": "CrusherIntTransFunction"
+  },
+  "Type": 5,
+  "Options": [
+    {
+      "Token": {
+        "UID": "62eaf6bd-47a9-4284-ada0-be2f48edec6d",
+        "Name": "crush_function1"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "2577a57f-9279-4a7a-8fbc-ada34e148291",
+        "Name": "crush_function2"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "0b2ea2fb-904e-4a8a-84b9-72d0e80e013b",
+        "Name": "crush_function3"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

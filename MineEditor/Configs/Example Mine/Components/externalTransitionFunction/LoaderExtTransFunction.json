@@ -1,0 +1,23 @@
+{
+  "Token": {
+    "UID": "fb6f29a4-2377-483f-b822-5519df773a64",
+    "Name": "LoaderExtTransFunction"
+  },
+  "Type": 6,
+  "Options": [
+    {
+      "Token": {
+        "UID": "5ca3fe84-464e-43f4-a2ea-633e4f394141",
+        "Name": "load_func1"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "b0c64dae-221b-43af-ab37-b20b32377b40",
+        "Name": "load_func2"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

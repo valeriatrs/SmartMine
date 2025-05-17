@@ -1,0 +1,154 @@
+{
+  "Token": {
+    "UID": "1db25d99-182a-4c05-820f-454fb0360072",
+    "Name": "Mine4"
+  },
+  "AutomataTokens": [
+    {
+      "UID": "fe123927-44d7-42b5-b55b-65de62d951bc",
+      "Name": "Loader1"
+    },
+    {
+      "UID": "f553b6f0-abd5-4bfe-9142-ac7de80f6bc6",
+      "Name": "Location1"
+    },
+    {
+      "UID": "792bb12b-b61a-4a2b-a72d-42718c4454d6",
+      "Name": "LocT"
+    },
+    {
+      "UID": "760eacb8-f225-438f-957c-f88eacf699aa",
+      "Name": "Automata1"
+    },
+    {
+      "UID": "6a352b67-6989-4fd0-8577-9345db334822",
+      "Name": "Automata2"
+    }
+  ],
+  "Components": {
+    "externalIncomingEvents": [
+      {
+        "UID": "d465baf7-a3c2-4406-9caa-291223d636f3",
+        "Name": "LoaderEvents"
+      },
+      {
+        "UID": "bef3f53e-a4e5-4b6f-ba77-f338e58f3ef9",
+        "Name": "LocationEvents"
+      }
+    ],
+    "externalOutgoingEvents": [
+      {
+        "UID": "57f07aca-a242-4b67-b269-ff1fab2a0113",
+        "Name": "LocationEvents"
+      },
+      {
+        "UID": "db73d9b9-3dc4-421a-b9d3-1e0dc0e34454",
+        "Name": "LoaderEvents"
+      }
+    ],
+    "internalEvents": [
+      {
+        "UID": "9fe61f53-0e65-4a9e-b014-d5e9005c1164",
+        "Name": "LocationEvents"
+      },
+      {
+        "UID": "fa9d16f6-c16c-4115-a390-8efcdea7023c",
+        "Name": "LoaderEvents"
+      }
+    ],
+    "states": [
+      {
+        "UID": "c20aa444-c23b-4081-843a-baf59b598ca6",
+        "Name": "LocationStates"
+      },
+      {
+        "UID": "051e370b-ac94-4ae8-9d2c-81fdce90f3ee",
+        "Name": "LoaderStates"
+      }
+    ],
+    "initialState": [
+      {
+        "UID": "8664e7b0-2528-4beb-ae62-a50c76d8a959",
+        "Name": "LocationInitState"
+      },
+      {
+        "UID": "1fc5a8e6-11ac-43d8-8e9f-a4d222b203ad",
+        "Name": "LoaderInitState"
+      },
+      {
+        "UID": "0dfa9c3a-c40a-4ad1-be63-0cc9f2fad5c9",
+        "Name": "LocT_InitState"
+      }
+    ],
+    "internalTransitionFunction": [
+      {
+        "UID": "91ad7373-daf7-44bd-aaf3-df5b326c6450",
+        "Name": "LocationTransFunc"
+      },
+      {
+        "UID": "b2cc0fad-3bc0-4552-a956-e96d129898b2",
+        "Name": "LoaderTransFunc"
+      }
+    ],
+    "externalTransitionFunction": [
+      {
+        "UID": "f0f6ca64-21ae-4c6e-b1a8-3fbe8ab550ad",
+        "Name": "LocationTransFunc"
+      },
+      {
+        "UID": "2974b406-d178-4709-90ee-ece73777a84f",
+        "Name": "LoaderTransFunc"
+      }
+    ],
+    "stateOutputFunction": [
+      {
+        "UID": "3398bc61-721f-47bb-8ea2-78b7be280923",
+        "Name": "LocationStateOutFunc"
+      },
+      {
+        "UID": "ce392c8e-686d-490e-973b-80a138440497",
+        "Name": "LoaderStateOutFunc"
+      }
+    ],
+    "transitionOutputFunction": [
+      {
+        "UID": "7c2e4650-818e-4474-96c0-b4c553a1ab75",
+        "Name": "LocationTransOutFunc"
+      },
+      {
+        "UID": "2f4f1dd6-2cd1-43ee-af9f-b62e0fd57fdc",
+        "Name": "LoaderTransOutFunc"
+      }
+    ],
+    "timeAdvance": [
+      {
+        "UID": "baa3baca-e59b-4605-8816-a5b36aafe8d1",
+        "Name": "LocationTA"
+      },
+      {
+        "UID": "9c3e9fdb-95d9-4105-965d-2d2db7ae9b34",
+        "Name": "LoaderTA"
+      }
+    ],
+    "stateActivity": [
+      {
+        "UID": "bdd71600-e628-4c3d-a410-ae0172b68616",
+        "Name": "LocationStateActivity"
+      },
+      {
+        "UID": "eaa70999-540f-4b96-bb22-bf4f0e056551",
+        "Name": "LoaderStateActivity"
+      }
+    ],
+    "transitionActivity": [
+      {
+        "UID": "ccfc21e1-015b-4df4-bb0e-4d7e607c68e3",
+        "Name": "LocationTransActivity"
+      },
+      {
+        "UID": "66b0e969-7928-46cb-a3bf-82c26e97a0cb",
+        "Name": "LoaderTransActivity"
+      }
+    ]
+  }
+}

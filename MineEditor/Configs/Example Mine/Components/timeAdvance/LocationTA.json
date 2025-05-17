@@ -1,0 +1,30 @@
+{
+  "Token": {
+    "UID": "f94ab807-c490-4812-a31e-403ea7bbe58e",
+    "Name": "LocationTA"
+  },
+  "Type": 9,
+  "Options": [
+    {
+      "Token": {
+        "UID": "6e43c94f-6017-4d54-aa22-63a397ca910d",
+        "Name": "loc_funcTA_1"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "83af0820-f647-4758-bf3f-f9af685228c5",
+        "Name": "loc_funcTA_5"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "b51eaf48-6acd-49c9-874d-237190d43e50",
+        "Name": "loc_funcTA_6"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

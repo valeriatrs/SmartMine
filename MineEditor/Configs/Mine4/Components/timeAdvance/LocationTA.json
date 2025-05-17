@@ -1,0 +1,16 @@
+{
+  "Token": {
+    "UID": "baa3baca-e59b-4605-8816-a5b36aafe8d1",
+    "Name": "LocationTA"
+  },
+  "Type": 9,
+  "Options": [
+    {
+      "Token": {
+        "UID": "d596ea17-57b1-4328-81c0-d8eed23aa26a",
+        "Name": "funcTA1"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

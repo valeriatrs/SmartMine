@@ -1,0 +1,23 @@
+{
+  "Token": {
+    "UID": "0f160a6f-d8c9-448d-be9b-277867d02dc6",
+    "Name": "LoaderOutgoingEvents"
+  },
+  "Type": 1,
+  "Options": [
+    {
+      "Token": {
+        "UID": "f8d3f0fc-3611-415c-9f8f-7a34763050f5",
+        "Name": "EvLoaderUnloaded"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "dfc5eeaa-d577-441a-a553-8a4ffd13e82b",
+        "Name": "EvInLocT"
+      },
+      "AdditionalData": ""
+    }
+  ]
+}

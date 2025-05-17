@@ -1,0 +1,30 @@
+{
+  "Token": {
+    "UID": "3fb82769-267d-4d88-97a9-857acf6a1b7b",
+    "Name": "LocationStOutFunction"
+  },
+  "Type": 7,
+  "Options": [
+    {
+      "Token": {
+        "UID": "2f3e8747-67ba-4ee3-9a4e-7edca2abde20",
+        "Name": "loc_func1"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "b848e3ed-444f-42a7-b51a-1a136aa026e8",
+        "Name": "loc_func2"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "370bd5bc-a0c3-46d8-b759-1e97455b0008",
+        "Name": "loc_func3"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "Token": {
+    "UID": "ba28a596-860b-4c2a-9474-defcc7e9b896",
+    "Name": "CrusherStates"
+  },
+  "Type": 3,
+  "Options": [
+    {
+      "Token": {
+        "UID": "78f5e638-94ae-414e-bf40-47137d435ab1",
+        "Name": "InitCrusher"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "a8ac1e2a-1651-4df5-a6a6-86f8cd851e82",
+        "Name": "OreCrushing"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "e934b8b0-6088-4a53-a35a-c2fc141dbcb2",
+        "Name": "OreLifting"
+      },
+      "AdditionalData": ""
+    }
+  ]
+}

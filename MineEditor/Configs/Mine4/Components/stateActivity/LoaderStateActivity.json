@@ -1,0 +1,16 @@
+{
+  "Token": {
+    "UID": "eaa70999-540f-4b96-bb22-bf4f0e056551",
+    "Name": "LoaderStateActivity"
+  },
+  "Type": 10,
+  "Options": [
+    {
+      "Token": {
+        "UID": "4b95778b-fc73-4e6d-8bfe-d30bd770efa3",
+        "Name": "LSA"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

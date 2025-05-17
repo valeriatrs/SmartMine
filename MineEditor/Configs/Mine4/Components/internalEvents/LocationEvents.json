@@ -1,0 +1,23 @@
+{
+  "Token": {
+    "UID": "9fe61f53-0e65-4a9e-b014-d5e9005c1164",
+    "Name": "LocationEvents"
+  },
+  "Type": 2,
+  "Options": [
+    {
+      "Token": {
+        "UID": "b9da33c6-ba4c-4c4e-b70e-d926db86f40d",
+        "Name": "*"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "0742ad4a-bd6e-42c1-8cf9-a0510e077719",
+        "Name": "**"
+      },
+      "AdditionalData": ""
+    }
+  ]
+}

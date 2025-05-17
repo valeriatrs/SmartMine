@@ -1,0 +1,23 @@
+{
+  "Token": {
+    "UID": "9b9cd9a2-8261-4011-80de-450cd0c9cb3a",
+    "Name": "TruckOutgoingEvents"
+  },
+  "Type": 1,
+  "Options": [
+    {
+      "Token": {
+        "UID": "8c6ca37c-3396-41df-8643-a666f4802441",
+        "Name": "EvStartTruckTransering"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "40bd7683-4813-4165-8c41-e7d2d3f7a222",
+        "Name": "EvTruckUnloaded"
+      },
+      "AdditionalData": ""
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "Token": {
+    "UID": "a290415a-17ab-4a7e-a83f-adc62276e647",
+    "Name": "CrusherEvents"
+  },
+  "Type": 2,
+  "Options": [
+    {
+      "Token": {
+        "UID": "32014442-69d9-425f-8e9f-a420faeb12ae",
+        "Name": "*"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "95ce5616-afcf-4803-aefb-d75abe849894",
+        "Name": "**"
+      },
+      "AdditionalData": ""
+    }
+  ]
+}

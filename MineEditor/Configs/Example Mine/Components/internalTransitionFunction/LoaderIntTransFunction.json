@@ -1,0 +1,58 @@
+{
+  "Token": {
+    "UID": "6cd16c4e-e15d-45ba-9d43-0f235e8aa31f",
+    "Name": "LoaderIntTransFunction"
+  },
+  "Type": 5,
+  "Options": [
+    {
+      "Token": {
+        "UID": "ba2d7610-41a3-43b9-9c4a-6c773c08deab",
+        "Name": "load_function1"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "3f9c676f-0163-4f17-a458-927b4f048952",
+        "Name": "load_function2"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "57f66c33-6925-4c56-93da-55bbbe992a8f",
+        "Name": "load_function3"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "e7b25c1f-d1cb-4a5e-9a1f-54dd41a2adca",
+        "Name": "load_function4"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "3c14f407-f17e-4e9d-acf9-5c6a5cb3cdec",
+        "Name": "load_function5"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "92d68f00-bd34-4dc4-81f5-eb66ec7a5349",
+        "Name": "load_function6"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "389b3f80-0839-4078-aa7e-f25cfc034a27",
+        "Name": "load_function7"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

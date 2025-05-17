@@ -1,0 +1,16 @@
+{
+  "Token": {
+    "UID": "b5963295-175a-4190-97bf-caf33b3b9db5",
+    "Name": "TruckIncomingEvents"
+  },
+  "Type": 0,
+  "Options": [
+    {
+      "Token": {
+        "UID": "e0d55e9c-484c-45ba-9c09-0ac185752ec6",
+        "Name": "EvInLocT"
+      },
+      "AdditionalData": ""
+    }
+  ]
+}

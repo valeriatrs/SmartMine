@@ -1,0 +1,16 @@
+{
+  "Token": {
+    "UID": "8664e7b0-2528-4beb-ae62-a50c76d8a959",
+    "Name": "LocationInitState"
+  },
+  "Type": 4,
+  "Options": [
+    {
+      "Token": {
+        "UID": "8b2a6e37-35ea-45d1-8d0b-82eaf7dddf48",
+        "Name": "InitLoc1"
+      },
+      "AdditionalData": ""
+    }
+  ]
+}

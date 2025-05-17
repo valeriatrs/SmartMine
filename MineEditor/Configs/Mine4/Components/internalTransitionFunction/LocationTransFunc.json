@@ -1,0 +1,23 @@
+{
+  "Token": {
+    "UID": "91ad7373-daf7-44bd-aaf3-df5b326c6450",
+    "Name": "LocationTransFunc"
+  },
+  "Type": 5,
+  "Options": [
+    {
+      "Token": {
+        "UID": "24a0631f-4a4c-4812-bb5f-37459c01aa53",
+        "Name": "InitLoc1_OreProduction"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "39e41e07-7e8f-4352-9a30-0e03efcddb4c",
+        "Name": "InitLoc1_OreProcessing"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

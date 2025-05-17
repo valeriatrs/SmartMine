@@ -1,0 +1,16 @@
+{
+  "Token": {
+    "UID": "a15989b4-beea-407e-a86c-523f05defce5",
+    "Name": "CrusherExtTransFunction"
+  },
+  "Type": 6,
+  "Options": [
+    {
+      "Token": {
+        "UID": "3867cd9f-e45d-45a4-bbfa-bd1ab5beb582",
+        "Name": "crush_func"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

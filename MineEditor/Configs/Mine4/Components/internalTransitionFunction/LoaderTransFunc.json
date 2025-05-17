@@ -1,0 +1,24 @@
+{
+  "Token": {
+    "UID": "b2cc0fad-3bc0-4552-a956-e96d129898b2",
+    "Name": "LoaderTransFunc"
+  },
+  "Type": 5,
+  "Options": [
+    {
+      "Token": {
+        "UID": "c3e5cf15-c378-418a-a54d-ff94e11a112b",
+        "Name": "function"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "4956f7ff-9fc4-4af9-a8cd-097f9a8ca030",
+        "Name": "FUNC"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}
+

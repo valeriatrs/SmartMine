@@ -1,0 +1,23 @@
+{
+  "Token": {
+    "UID": "d465baf7-a3c2-4406-9caa-291223d636f3",
+    "Name": "LoaderEvents"
+  },
+  "Type": 0,
+  "Options": [
+    {
+      "Token": {
+        "UID": "f93fddb3-9f0c-424c-ba56-3afb0806c65c",
+        "Name": "EvReadinessForLoading"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "015f4047-544f-403c-9593-26ad97f2dea3",
+        "Name": "EvStartTruckTransfering"
+      },
+      "AdditionalData": ""
+    }
+  ]
+}

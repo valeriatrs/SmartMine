@@ -1,0 +1,224 @@
+{
+  "Token": {
+    "UID": "52ffb6d1-e906-4370-90e1-d3c980efcd51",
+    "Name": "Example Mine"
+  },
+  "AutomataTokens": [
+    {
+      "UID": "30a8c0fa-e8a1-4efb-b621-8fa555885476",
+      "Name": "Loader1"
+    },
+    {
+      "UID": "4e2a41ce-c4dd-4be3-9a73-af6071ec7592",
+      "Name": "Loc1"
+    },
+    {
+      "UID": "745ec497-6d18-4690-9bc9-ca5c1d2e60d4",
+      "Name": "Truck"
+    },
+    {
+      "UID": "b852bb7c-f377-4878-bbc1-02ea205405f7",
+      "Name": "Crusher"
+    }
+  ],
+  "Components": {
+    "externalIncomingEvents": [
+      {
+        "UID": "9a17b581-feb5-4c56-a1ee-adeedc3460e4",
+        "Name": "LocationIncomingEvents"
+      },
+      {
+        "UID": "17879dab-518e-48dd-82e8-71be5206900d",
+        "Name": "LoaderIncomingEvents"
+      },
+      {
+        "UID": "b5963295-175a-4190-97bf-caf33b3b9db5",
+        "Name": "TruckIncomingEvents"
+      },
+      {
+        "UID": "7c249640-6ed7-4f2a-b4f0-5e4126b8979a",
+        "Name": "CrusherIncomingEvents"
+      }
+    ],
+    "externalOutgoingEvents": [
+      {
+        "UID": "d15d21ff-cb17-4c9f-b0e0-3eae226d6510",
+        "Name": "LocationOutgoingEvents"
+      },
+      {
+        "UID": "0f160a6f-d8c9-448d-be9b-277867d02dc6",
+        "Name": "LoaderOutgoingEvents"
+      },
+      {
+        "UID": "9b9cd9a2-8261-4011-80de-450cd0c9cb3a",
+        "Name": "TruckOutgoingEvents"
+      },
+      {
+        "UID": "9d4d92a9-e761-41e2-a2e0-d5f59f23d87d",
+        "Name": "CrusherOutgoingEvents"
+      }
+    ],
+    "internalEvents": [
+      {
+        "UID": "81404111-504c-434a-b5c0-2caea058ddd7",
+        "Name": "LocationEvents"
+      },
+      {
+        "UID": "61475d41-f6cc-486d-be42-be3233ff9a30",
+        "Name": "LoaderEvents"
+      },
+      {
+        "UID": "98a4971e-0c5c-4960-bab1-7eff5864e24a",
+        "Name": "TruckEvents"
+      },
+      {
+        "UID": "a290415a-17ab-4a7e-a83f-adc62276e647",
+        "Name": "CrusherEvents"
+      }
+    ],
+    "states": [
+      {
+        "UID": "d3f74b97-2ab9-42e4-9466-178b963ea386",
+        "Name": "LocationStates"
+      },
+      {
+        "UID": "8e7a7a9a-757c-4d5b-a856-3cc84feed253",
+        "Name": "LoaderStates"
+      },
+      {
+        "UID": "b5992cd2-60b5-42fd-908e-1dcf0d0573d5",
+        "Name": "TruckStates"
+      },
+      {
+        "UID": "ba28a596-860b-4c2a-9474-defcc7e9b896",
+        "Name": "CrusherStates"
+      }
+    ],
+    "internalTransitionFunction": [
+      {
+        "UID": "dd9fe611-bfd6-434f-8780-ad3c790c9b1e",
+        "Name": "LocationIntTransFunction"
+      },
+      {
+        "UID": "6cd16c4e-e15d-45ba-9d43-0f235e8aa31f",
+        "Name": "LoaderIntTransFunction"
+      },
+      {
+        "UID": "1858f3ac-bc8b-44be-a5da-3042bf087a96",
+        "Name": "TruckIntTransFunction"
+      },
+      {
+        "UID": "dba5e0aa-6439-4019-974d-3a1a5bae3f88",
+        "Name": "CrusherIntTransFunction"
+      }
+    ],
+    "externalTransitionFunction": [
+      {
+        "UID": "0838e515-e809-49c1-b70a-a566cf39b6fa",
+        "Name": "LocationExtTransFunction"
+      },
+      {
+        "UID": "fb6f29a4-2377-483f-b822-5519df773a64",
+        "Name": "LoaderExtTransFunction"
+      },
+      {
+        "UID": "f0db8b04-7ce0-4d07-966d-a75c60649267",
+        "Name": "TruckExtTransFunction"
+      },
+      {
+        "UID": "a15989b4-beea-407e-a86c-523f05defce5",
+        "Name": "CrusherExtTransFunction"
+      }
+    ],
+    "stateOutputFunction": [
+      {
+        "UID": "3fb82769-267d-4d88-97a9-857acf6a1b7b",
+        "Name": "LocationStOutFunction"
+      },
+      {
+        "UID": "5d6748b2-2f4e-4477-8bbc-704cc367c490",
+        "Name": "LoaderStOutFunction"
+      },
+      {
+        "UID": "bf3a520d-3462-4c10-8f02-7e2552a1ea8f",
+        "Name": "TruckStOutFunction"
+      },
+      {
+        "UID": "497e8b29-38e9-4a02-872d-0f601f67d510",
+        "Name": "CrusherStOutFunction"
+      }
+    ],
+    "transitionOutputFunction": [
+      {
+        "UID": "4fac64dc-bb86-4479-98c3-fc2690994556",
+        "Name": "LocationTrOutFunction"
+      },
+      {
+        "UID": "881a26d2-f9bb-4732-bfe2-5ac81645bc82",
+        "Name": "LoaderTrOutFunction"
+      },
+      {
+        "UID": "1cf2dc51-3c10-4f54-9689-1cc4598d8986",
+        "Name": "TruckTrOutFunction"
+      },
+      {
+        "UID": "4903dd06-aaac-411a-98eb-26a7a418434c",
+        "Name": "CrusherTrOutFunction"
+      }
+    ],
+    "timeAdvance": [
+      {
+        "UID": "f94ab807-c490-4812-a31e-403ea7bbe58e",
+        "Name": "LocationTA"
+      },
+      {
+        "UID": "2caa6185-ec0b-4c61-be8b-5603aed077b2",
+        "Name": "LoaderTA"
+      },
+      {
+        "UID": "952f140a-9742-4865-a850-e0d6fea93b6e",
+        "Name": "TruckTA"
+      },
+      {
+        "UID": "f874fc26-f0e8-4283-a3db-7fcb1cac3b33",
+        "Name": "CrusherTA"
+      }
+    ],
+    "stateActivity": [
+      {
+        "UID": "6d98595a-5b69-48f1-ac8e-0a79b9ac27cb",
+        "Name": "LocationStateActivity"
+      },
+      {
+        "UID": "a62a2630-9cd1-42a2-a4d2-054b4f8b6f96",
+        "Name": "LoaderStateActivity"
+      },
+      {
+        "UID": "ecfebd46-1e8e-4e77-ac84-06ea23af762d",
+        "Name": "TruckStateActivity"
+      },
+      {
+        "UID": "76cab8e7-a661-41ce-8919-e69bdf573fbb",
+        "Name": "CrusherStateActivity"
+      }
+    ],
+    "transitionActivity": [
+      {
+        "UID": "5f347cb9-29b0-4be1-a6e2-31d4e873c2ca",
+        "Name": "LocationTransActivity"
+      },
+      {
+        "UID": "5b2440b1-7a32-4eb9-bacf-259d07c251fc",
+        "Name": "LoaderTransActivity"
+      },
+      {
+        "UID": "90c0ae0e-3ebd-4303-8714-606b136bd10b",
+        "Name": "TruckTransActivity"
+      },
+      {
+        "UID": "2ab60492-7a7b-4246-a174-a2a396045b46",
+        "Name": "CrusherTransActivity"
+      }
+    ]
+  }
+}

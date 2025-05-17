@@ -1,0 +1,58 @@
+{
+  "Token": {
+    "UID": "1858f3ac-bc8b-44be-a5da-3042bf087a96",
+    "Name": "TruckIntTransFunction"
+  },
+  "Type": 5,
+  "Options": [
+    {
+      "Token": {
+        "UID": "4df6abe2-3988-44ea-aba4-40f3ddc617a1",
+        "Name": "truck_function1"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "83522d9c-0128-4ebf-9ef3-d62a98300ba8",
+        "Name": "truck_function2"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "627d295f-3bf4-44b6-adce-cc06dfe1bb28",
+        "Name": "truck_function3"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "4feeda01-34a4-470d-acfa-64bea7f0f629",
+        "Name": "truck_function4"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "59e4052d-bf15-4b0b-92fe-f31e8e4c6e17",
+        "Name": "truck_function5"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "62789a8b-c467-4509-8427-4ef79d6981eb",
+        "Name": "truck_function6"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "1dd2fd92-eb71-4a0d-aa77-8a34ff6bbcd0",
+        "Name": "truck_function7"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

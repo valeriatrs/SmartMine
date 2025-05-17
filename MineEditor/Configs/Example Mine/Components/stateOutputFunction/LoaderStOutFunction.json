@@ -1,0 +1,58 @@
+{
+  "Token": {
+    "UID": "5d6748b2-2f4e-4477-8bbc-704cc367c490",
+    "Name": "LoaderStOutFunction"
+  },
+  "Type": 7,
+  "Options": [
+    {
+      "Token": {
+        "UID": "373b9d32-d653-4e79-a3de-3c6592ae0a5e",
+        "Name": "load_func1"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "92ca656d-bd95-4247-bae6-ad5cb0f00eb4",
+        "Name": "load_func2"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "465bb1e2-a43d-412c-b0d1-127d1f45c701",
+        "Name": "load_func3"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "9734a20f-6e2f-4ae4-8c6a-268d1b7d66c2",
+        "Name": "load_func4"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "fe796315-02bb-4229-acdd-6bf2a15e555a",
+        "Name": "load_func5"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "fce254a6-6277-47d5-ad19-48aa8ea73d60",
+        "Name": "load_func6"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "d472d3d4-f825-428c-a7f5-ba60bde551bb",
+        "Name": "load_func7"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

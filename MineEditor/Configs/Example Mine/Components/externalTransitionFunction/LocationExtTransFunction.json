@@ -1,0 +1,23 @@
+{
+  "Token": {
+    "UID": "0838e515-e809-49c1-b70a-a566cf39b6fa",
+    "Name": "LocationExtTransFunction"
+  },
+  "Type": 6,
+  "Options": [
+    {
+      "Token": {
+        "UID": "e30939a8-a06c-4358-8a4e-035daa9b5c33",
+        "Name": "loc_func1"
+      },
+      "AdditionalData": "script"
+    },
+    {
+      "Token": {
+        "UID": "5759e0e5-29b3-4f33-9092-9d563fd199e9",
+        "Name": "loc_func2"
+      },
+      "AdditionalData": "script"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Token": {
+    "UID": "8e7a7a9a-757c-4d5b-a856-3cc84feed253",
+    "Name": "LoaderStates"
+  },
+  "Type": 3,
+  "Options": [
+    {
+      "Token": {
+        "UID": "a8a412cf-4d3b-43cb-a65d-e4bc45bb3e3a",
+        "Name": "InitLoаder1"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "51b6537f-d7d3-4992-98f5-ed40d0475d21",
+        "Name": "InLoc1"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "ee3df2c3-9415-4c34-b758-deec6b247ed0",
+        "Name": "InLocT-L"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "57151522-c456-42b9-9a6d-eae839e3b009",
+        "Name": "LoadingOre"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "9501180e-362f-49e8-b5a5-9d50f653fd9c",
+        "Name": "UnloadingOre"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "a3c3e000-e620-4200-b725-5283e289ea2d",
+        "Name": "MovingToLocT"
+      },
+      "AdditionalData": ""
+    },
+    {
+      "Token": {
+        "UID": "7ed74b26-b850-4d6d-9b29-f18478f32355",
+        "Name": "MovingToLoc1"
+      },
+      "AdditionalData": ""
+    }
+  ]
+}
